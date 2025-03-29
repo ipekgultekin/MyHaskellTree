@@ -1,6 +1,3 @@
--- İpek Gültekin 2526390
--- I read and accept the submission rules and the extra rules specified in each question. This is my own work that is done by myself only. 
-
 data TernaryTree = Empty | Node Int TernaryTree TernaryTree TernaryTree deriving (Show, Eq, Ord)
 
 -- Part 1
